@@ -24,12 +24,16 @@ python3 run.sh genom_file.fna > output.txt
 ## problen 5 
 
 touch 5.py
+
 nano 5.py
+
 python3 5.py > output.txt
 
 ## problem 6
 touch 6.py
+
 nano 6.py
+
 python3 6.py genoms.fna > output.txt
 
 
