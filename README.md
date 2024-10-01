@@ -11,6 +11,9 @@ nano reverse.py
 
 python3 reverse.py > output2_genes.txt
 
+## problem 3
+python3 ORF.py rosalind.fna > output.txt
+
 ## problem 4 
 touct run_orfweek4.4sh
 
